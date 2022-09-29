@@ -1,1 +1,4 @@
-document.write("we can write in js file too")
+var name = "Young";
+
+document.write(name)
+document.write(typeof name)
