@@ -1,4 +1,3 @@
-var name = "Young";
+let num = Math.random();
 
-document.write(name)
-document.write(typeof name)
+document.write(num)
