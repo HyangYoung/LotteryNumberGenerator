@@ -25,5 +25,5 @@ while(lotto.length < 6 ){
             lotto.push(num);
         }
     }
-
+lotto.sort((a,b)=>a-b)
 document.write(lotto)
